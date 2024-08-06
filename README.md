@@ -50,3 +50,9 @@ This project involves converting a raw set of financial data into an interactive
 
 This project demonstrates the power of Excel Pivot Tables in transforming raw data into meaningful, interactive dashboards. By following the steps, you can gain valuable insights into a company's financial performance and make informed decisions based on data.
 
+## Contact
+For any queries or further information,
+ please contact:
+**Name:** Saurabh Sharma  
+**Email:** sharmasaurabh.office@gmail.com
+
